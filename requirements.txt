@@ -1,0 +1,25 @@
+# --- Core Framework ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# --- Google Gemini (2026 Unified SDK) ---
+langchain-google-genai>=4.2.1
+google-genai>=1.0.0
+
+# --- Anthropic & OpenAI ---
+langchain-openai
+langchain-anthropic
+openai
+
+# --- HuggingFace & Local Support ---
+langchain-huggingface
+transformers
+huggingface-hub
+torch
+sentence-transformers
+
+# --- Utilities ---
+python-dotenv
+numpy
+scikit-learn
+streamlit

@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+
+1.LLMs/
+2.ChatModels/
+3.EmbeddedModels/
+
+Prompts/prompt_generator.py
+Prompts/prompt_ui.py
+
+template.json
+template1.json
